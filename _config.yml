@@ -22,7 +22,7 @@ title: James Wobil's Portfolio
 email: wobiljames55@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   James Wobil's Portfolio.
-baseurl: "/wobiljames.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wobiljames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: selasi_wobil
 github_username:  wobiljames
